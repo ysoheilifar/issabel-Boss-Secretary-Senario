@@ -3,13 +3,13 @@ We want no one to take the bosses extension directly
 
 We have two boss extension and one secretary
 
-secretary and boss extensions is :
+secretary and boss extensions :
 
-> secretary : 101
+> extension of secretary is : 101
 
-> boss1 : 102
+> extension of boss1 is : 102
 
-> boss2 : 103
+> extension of boss2 is : 103
 
 - if you have 2 secretary extension or more put those to the Ring Group on web interface and use Ring Group Number here
 
