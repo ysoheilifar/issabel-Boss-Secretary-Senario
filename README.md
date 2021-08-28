@@ -1,5 +1,8 @@
 # issabel Boss Secretary Senario
 we have two boss extension and one secretary
+
+secretary and boss extensions is :
+
 > secretary : 101
 
 > boss1 : 102
